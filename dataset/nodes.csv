@@ -1,0 +1,10 @@
+id,lokasi,tipe,lat,lon
+A,Sekolah,Bangunan,-8.6705,115.2126
+B,Persimpangan,Jalan,-8.6725,115.2145
+C,Posko Evakuasi,Aman,-8.6755,115.2185
+D,Rumah Sakit,Medis,-8.678,115.2205
+E,Area Bahaya,Bahaya,-8.6715,115.2255
+F,Gedung Serbaguna,Bangunan,-8.674,115.228
+M,Rumah Dia,Aman,-8.676,115.23
+H,Instiki,Aman,-8.6328,115.56784
+H,Instiki,Aman,-8.6328,115.26784

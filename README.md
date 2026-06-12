@@ -3,6 +3,9 @@
 2. I Gede Ega Sanjaya Putra - 2501010099
 3. I Ketut Kayana Pradhitya - 2501010112
 
+# Video Demo
+https://youtu.be/dhkgov5tKvo
+
 # DSS Jalur Evakuasi Bencana
 
 Sistem Decision Support System (DSS) berbasis graph untuk menentukan jalur evakuasi terbaik menggunakan algoritma Dijkstra.
